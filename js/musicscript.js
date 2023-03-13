@@ -34,7 +34,7 @@ let allMusic = [
   {
     SongName: "Lut Gaye - Jubin Nautiyal",
     artistName: "Jubin Nautiyal",
-    Songimg: "Lut-Gaye-Jubin.jpg",
+    Songimg: "Lut-Gaye-jubin.jpg",
     Songsrc: "Lut_Gaye_Jubin_Nautiyal.mp3",
     Songsrc2: "music-4",
   },
